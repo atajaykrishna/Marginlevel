@@ -1,6 +1,6 @@
 {
-    'GRMUSD': 0.032,    
-    'TTBAED': 3.75,     
+    "GRMUSD": 0.032,    
+    "TTBAED": 3.75,     
     'TTBUSD': 3.75,     
     'XAUUSD.r': 100,    
     'XAGUSD.r': 5000,
